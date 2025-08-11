@@ -34,11 +34,11 @@
 
 <img width="26" height="26" alt="git-icon" src="https://github.com/user-attachments/assets/c4b51494-5a11-4e02-9fb6-c825ba9c79e0"/> &nbsp;
 
-<img width="26" height="26" alt="github-icon" src="https://github.com/user-attachments/assets/752a9f7b-457f-4224-bfc3-7cef82b0b9dc" style="margin-right:5px;"/>
+<img width="26" height="26" alt="github-icon" src="https://github.com/user-attachments/assets/752a9f7b-457f-4224-bfc3-7cef82b0b9dc"/> &nbsp;
 
-<img width="26" height="26" alt="intelliJIdea-icon" src="https://github.com/user-attachments/assets/78e5175c-f9de-4da6-99bc-1ce0a7ae77e2" style="margin-right:5px;"/>
+<img width="26" height="26" alt="intelliJIdea-icon" src="https://github.com/user-attachments/assets/78e5175c-f9de-4da6-99bc-1ce0a7ae77e2"/> &nbsp;
 
-<img width="26" height="26" alt="aws-icon" src="https://github.com/user-attachments/assets/3b38108f-8f45-4e1e-9805-6bafa1819063" style="margin-right:5px;"/>
+<img width="26" height="26" alt="aws-icon" src="https://github.com/user-attachments/assets/3b38108f-8f45-4e1e-9805-6bafa1819063"/> &nbsp;
 
 <hr />
 
@@ -47,11 +47,7 @@
 
 <ul>
     <!-- BLOG-POST-LIST:START -->
- <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%A3%BC%EC%B0%A8-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85">플러스 주차 트러블 슈팅</a></span></li>
- <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/%EA%B0%92-%ED%83%80%EC%9E%85">값 타입</a></span></li>
- <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/Spring-%EC%8B%AC%ED%99%94-%EC%A3%BC%EC%B0%A8-%EA%B0%9C%EC%9D%B8-%EA%B3%BC%EC%A0%9C">Spring 심화 주차 개인 과제</a></span></li>
- <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/%EC%98%81%EC%86%8D%EC%84%B1-%EC%A0%84%EC%9D%B4%EC%99%80-%EA%B3%A0%EC%95%84-%EA%B0%9D%EC%B2%B4">영속성 전이와 고아 객체</a></span></li>
- <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%A6%89%EC%8B%9C-%EB%A1%9C%EB%94%A9">지연 로딩과 즉시 로딩</a></span></li><!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:END -->
 </ul>
 
 ➡️ <a href="https://velog.io/@dereck-jun/posts">more blog posts...</a>
@@ -62,11 +58,6 @@
   <summary>⚡️ Recent GitHub Activity</summary>
 
  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dereck-jun/loan-assessment/pull/2) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
-2. 💪 Opened PR [#2](https://github.com/dereck-jun/loan-assessment/pull/2) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
-3. 🎉 Merged PR [#1](https://github.com/dereck-jun/loan-assessment/pull/1) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
-4. 💪 Opened PR [#1](https://github.com/dereck-jun/loan-assessment/pull/1) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
-5. 🎉 Merged PR [#8](https://github.com/dereck-jun/p2p-loan-assessment/pull/8) in [dereck-jun/p2p-loan-assessment](https://github.com/dereck-jun/p2p-loan-assessment)
   <!--END_SECTION:activity-->
 </details>
 
