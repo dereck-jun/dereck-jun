@@ -1,53 +1,59 @@
-I am dereck-jun, a backend developer who values stability and user experience and continues to grow 🌱
+> I am dereck-jun, a backend developer who values stability and user experience and continues to grow 🌱
 
-About me
+### 🙋‍♂️ About me
 
-- 🧑‍💻 Backend Engineer (Java-based Spring Boot)
-- 💪 Trying to solve at least one coding test problem every day.
+- ‍💻 Backend Engineer (Java-based Spring Boot)
+- 💪 Trying to solve at least one coding test problem every day
 
-#### Connect with me:
+
+### 🤝 Connect with me:
 
 <a href="https://www.instagram.com/dereck_yjun/" target="_blank">
-<img width="32" height="32" alt="instagram-icon" src="https://github.com/user-attachments/assets/2fc8adc5-b37f-4d4f-815f-97473f540526" style="margin-right:5px;"/>
-</a>
+    <img width="26" height="26" alt="instagram-icon" src="https://github.com/user-attachments/assets/2fc8adc5-b37f-4d4f-815f-97473f540526"/>
+</a>&nbsp;
 
 <a href="mailto:dereckjun2173@gmail.com" target="_blank">
-<img width="32" height="32" alt="gmail-icon" src="https://github.com/user-attachments/assets/b796ebc5-5ed8-423f-8dfe-d26a12ab0fa0" style="margin-right:5px;"/>
-</a>
+    <img width="26" height="26" alt="gmail-icon" src="https://github.com/user-attachments/assets/b796ebc5-5ed8-423f-8dfe-d26a12ab0fa0"/>
+</a>&nbsp;
 
 <a href="https://discord.com/users/dereck_2173" target="_blank">
-<img width="32" height="32" alt="discord-icon" src="https://github.com/user-attachments/assets/005298ae-9c12-4e66-b69a-4d483e599708" style="margin-right:5px;"/>
-</a>
+    <img width="26" height="26" alt="discord-icon" src="https://github.com/user-attachments/assets/005298ae-9c12-4e66-b69a-4d483e599708"/>
+</a>&nbsp;
 
 <br/>
 
-#### Language and Tools:
+### 🛠️ Language and Tools:
 
-<img width="32" height="32" alt="java-icon" src="https://github.com/user-attachments/assets/adb795f5-6a0f-47ac-8484-ac366742db75" style="margin-right:5px;"/>
-<img width="32" height="32" alt="springBoot-icon" src="https://github.com/user-attachments/assets/e46d0be6-dbd3-4ce3-a49f-b991d506180a" style="margin-right:5px;"/>
-<img width="32" height="32" alt="mysql-icon" src="https://github.com/user-attachments/assets/02f25096-2c5c-479c-90b3-d9e56bfbe6f3" style="margin-right:5px;"/>
-<img width="32" height="32" alt="redis-icon" src="https://github.com/user-attachments/assets/54e7e6d3-1906-4faf-b3b0-da18cd9df9d0" style="margin-right:5px;"/>
-<img width="32" height="32" alt="git-icon" src="https://github.com/user-attachments/assets/c4b51494-5a11-4e02-9fb6-c825ba9c79e0" style="margin-right:5px;"/>
-<img width="32" height="32" alt="github-icon" src="https://github.com/user-attachments/assets/752a9f7b-457f-4224-bfc3-7cef82b0b9dc" style="margin-right:5px;"/>
-<img width="32" height="32" alt="intelliJIdea-icon" src="https://github.com/user-attachments/assets/78e5175c-f9de-4da6-99bc-1ce0a7ae77e2" style="margin-right:5px;"/>
-<img width="32" height="32" alt="aws-icon" src="https://github.com/user-attachments/assets/3b38108f-8f45-4e1e-9805-6bafa1819063" style="margin-right:5px;"/>
+<img width="26" height="26" alt="java-icon" src="https://github.com/user-attachments/assets/adb795f5-6a0f-47ac-8484-ac366742db75"/> &nbsp;
+<img width="26" height="26" alt="springBoot-icon" src="https://github.com/user-attachments/assets/e46d0be6-dbd3-4ce3-a49f-b991d506180a"/> &nbsp;
+<img width="26" height="26" alt="mysql-icon" src="https://github.com/user-attachments/assets/02f25096-2c5c-479c-90b3-d9e56bfbe6f3"/> &nbsp;
+<img width="26" height="26" alt="redis-icon" src="https://github.com/user-attachments/assets/54e7e6d3-1906-4faf-b3b0-da18cd9df9d0"/> &nbsp;
+<img width="26" height="26" alt="git-icon" src="https://github.com/user-attachments/assets/c4b51494-5a11-4e02-9fb6-c825ba9c79e0"/> &nbsp;
+<img width="26" height="26" alt="github-icon" src="https://github.com/user-attachments/assets/752a9f7b-457f-4224-bfc3-7cef82b0b9dc"/> &nbsp;
+<img width="26" height="26" alt="intelliJIdea-icon" src="https://github.com/user-attachments/assets/78e5175c-f9de-4da6-99bc-1ce0a7ae77e2"/> &nbsp;
+<img width="26" height="26" alt="aws-icon" src="https://github.com/user-attachments/assets/3b38108f-8f45-4e1e-9805-6bafa1819063"/> &nbsp;
 
 <hr />
 
-<br />
 
-### Latest Blog Posts
+### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [플러스 주차 트러블 슈팅](https://velog.io/@dereck-jun/%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%A3%BC%EC%B0%A8-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)- [값 타입](https://velog.io/@dereck-jun/%EA%B0%92-%ED%83%80%EC%9E%85)- [Spring 심화 주차 개인 과제](https://velog.io/@dereck-jun/Spring-%EC%8B%AC%ED%99%94-%EC%A3%BC%EC%B0%A8-%EA%B0%9C%EC%9D%B8-%EA%B3%BC%EC%A0%9C)- [영속성 전이와 고아 객체](https://velog.io/@dereck-jun/%EC%98%81%EC%86%8D%EC%84%B1-%EC%A0%84%EC%9D%B4%EC%99%80-%EA%B3%A0%EC%95%84-%EA%B0%9D%EC%B2%B4)- [지연 로딩과 즉시 로딩](https://velog.io/@dereck-jun/%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%A6%89%EC%8B%9C-%EB%A1%9C%EB%94%A9)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [플러스 주차 트러블 슈팅](https://velog.io/@dereck-jun/%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%A3%BC%EC%B0%A8-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
+- [값 타입](https://velog.io/@dereck-jun/%EA%B0%92-%ED%83%80%EC%9E%85)
+- [Spring 심화 주차 개인 과제](https://velog.io/@dereck-jun/Spring-%EC%8B%AC%ED%99%94-%EC%A3%BC%EC%B0%A8-%EA%B0%9C%EC%9D%B8-%EA%B3%BC%EC%A0%9C)
+- [영속성 전이와 고아 객체](https://velog.io/@dereck-jun/%EC%98%81%EC%86%8D%EC%84%B1-%EC%A0%84%EC%9D%B4%EC%99%80-%EA%B3%A0%EC%95%84-%EA%B0%9D%EC%B2%B4)
+- [지연 로딩과 즉시 로딩](https://velog.io/@dereck-jun/%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%A6%89%EC%8B%9C-%EB%A1%9C%EB%94%A9)
+<!-- BLOG-POST-LIST:END -->
+
 ➡️ <a href="https://velog.io/@dereck-jun/posts">more blog posts...</a>
 
 <hr />
 
-<br />
-
 <details> 
   <summary>⚡️ Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
+
+ <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/dereck-jun/loan-assessment/pull/2) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
 2. 💪 Opened PR [#2](https://github.com/dereck-jun/loan-assessment/pull/2) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
 3. 🎉 Merged PR [#1](https://github.com/dereck-jun/loan-assessment/pull/1) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
