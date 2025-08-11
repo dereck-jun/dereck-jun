@@ -19,4 +19,4 @@ jobs:
           feed_list: 'https://v2.velog.io/rss/@dereck-jun'  # 본인 블로그 RSS 주소
           max_post_count: 5                 # 최대 5개의 글만 표시
           readme_path: README.md       # 업데이트할 파일
-          template: "$counter [$title]($url)$newline"
+          template: "$counter. [$title]($url)$newline"
