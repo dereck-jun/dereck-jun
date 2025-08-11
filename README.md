@@ -47,7 +47,11 @@
 
 <ul>
     <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+ <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%A3%BC%EC%B0%A8-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85">플러스 주차 트러블 슈팅</a></span></li>
+ <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/%EA%B0%92-%ED%83%80%EC%9E%85">값 타입</a></span></li>
+ <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/Spring-%EC%8B%AC%ED%99%94-%EC%A3%BC%EC%B0%A8-%EA%B0%9C%EC%9D%B8-%EA%B3%BC%EC%A0%9C">Spring 심화 주차 개인 과제</a></span></li>
+ <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/%EC%98%81%EC%86%8D%EC%84%B1-%EC%A0%84%EC%9D%B4%EC%99%80-%EA%B3%A0%EC%95%84-%EA%B0%9D%EC%B2%B4">영속성 전이와 고아 객체</a></span></li>
+ <li><span style="font-size: 12px;"><a href="https://velog.io/@dereck-jun/%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%A6%89%EC%8B%9C-%EB%A1%9C%EB%94%A9">지연 로딩과 즉시 로딩</a></span></li><!-- BLOG-POST-LIST:END -->
 </ul>
 
 ➡️ <a href="https://velog.io/@dereck-jun/posts">more blog posts...</a>
