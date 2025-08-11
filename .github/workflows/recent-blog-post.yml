@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Fetch RSS and update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          commit_message: "update: README.md 블로그 최신 활동"
+          feed_list: 'https://v2.velog.io/rss/@dereck-jun'  # 본인 블로그 RSS 주소
+          max_post_count: 5                 # 최대 5개의 글만 표시
+          readme_path: README.md       # 업데이트할 파일
+          template: '- [$title]($url)'
