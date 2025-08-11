@@ -1,11 +1,13 @@
-I am dereck-jun, a backend developer who values stability and user experience and continues to grow 🌱
+> I am dereck-jun, a backend developer who values stability and user experience and continues to grow 🌱
 
-About me
+### About me
 
-- 🧑‍💻 Backend Engineer (Java-based Spring Boot)
-- 💪 Trying to solve at least one coding test problem every day.
+<ul>
+    <li>🧑‍💻 <span style="font-size: 12px;">Backend Engineer (Java-based Spring Boot)</span></li>
+    <li>💪 <span style="font-size: 12px;">Trying to solve at least one coding test problem every day</span></li>
+</ul>
 
-#### Connect with me:
+### 🤝 Connect with me:
 
 <a href="https://www.instagram.com/dereck_yjun/" target="_blank">
 <img width="32" height="32" alt="instagram-icon" src="https://github.com/user-attachments/assets/2fc8adc5-b37f-4d4f-815f-97473f540526" style="margin-right:5px;"/>
@@ -21,40 +23,42 @@ About me
 
 <br/>
 
-#### Language and Tools:
+### 🛠️ Language and Tools:
 
 <img width="32" height="32" alt="java-icon" src="https://github.com/user-attachments/assets/adb795f5-6a0f-47ac-8484-ac366742db75" style="margin-right:5px;"/>
+
 <img width="32" height="32" alt="springBoot-icon" src="https://github.com/user-attachments/assets/e46d0be6-dbd3-4ce3-a49f-b991d506180a" style="margin-right:5px;"/>
+
 <img width="32" height="32" alt="mysql-icon" src="https://github.com/user-attachments/assets/02f25096-2c5c-479c-90b3-d9e56bfbe6f3" style="margin-right:5px;"/>
+
 <img width="32" height="32" alt="redis-icon" src="https://github.com/user-attachments/assets/54e7e6d3-1906-4faf-b3b0-da18cd9df9d0" style="margin-right:5px;"/>
+
 <img width="32" height="32" alt="git-icon" src="https://github.com/user-attachments/assets/c4b51494-5a11-4e02-9fb6-c825ba9c79e0" style="margin-right:5px;"/>
+
 <img width="32" height="32" alt="github-icon" src="https://github.com/user-attachments/assets/752a9f7b-457f-4224-bfc3-7cef82b0b9dc" style="margin-right:5px;"/>
+
 <img width="32" height="32" alt="intelliJIdea-icon" src="https://github.com/user-attachments/assets/78e5175c-f9de-4da6-99bc-1ce0a7ae77e2" style="margin-right:5px;"/>
+
 <img width="32" height="32" alt="aws-icon" src="https://github.com/user-attachments/assets/3b38108f-8f45-4e1e-9805-6bafa1819063" style="margin-right:5px;"/>
 
 <hr />
 
-<br />
 
-### Latest Blog Posts
+### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<ul>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
+</ul>
 
 ➡️ <a href="https://velog.io/@dereck-jun/posts">more blog posts...</a>
 
 <hr />
 
-<br />
-
 <details> 
   <summary>⚡️ Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dereck-jun/loan-assessment/pull/2) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
-2. 💪 Opened PR [#2](https://github.com/dereck-jun/loan-assessment/pull/2) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
-3. 🎉 Merged PR [#1](https://github.com/dereck-jun/loan-assessment/pull/1) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
-4. 💪 Opened PR [#1](https://github.com/dereck-jun/loan-assessment/pull/1) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
-5. 🎉 Merged PR [#8](https://github.com/dereck-jun/p2p-loan-assessment/pull/8) in [dereck-jun/p2p-loan-assessment](https://github.com/dereck-jun/p2p-loan-assessment)
+
   <!--END_SECTION:activity-->
 </details>
 
