@@ -63,6 +63,11 @@
   <summary>⚡️ Recent GitHub Activity</summary>
 
  <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/dereck-jun/loan-assessment/pull/2) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
+2. 💪 Opened PR [#2](https://github.com/dereck-jun/loan-assessment/pull/2) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
+3. 🎉 Merged PR [#1](https://github.com/dereck-jun/loan-assessment/pull/1) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
+4. 💪 Opened PR [#1](https://github.com/dereck-jun/loan-assessment/pull/1) in [dereck-jun/loan-assessment](https://github.com/dereck-jun/loan-assessment)
+5. 🎉 Merged PR [#8](https://github.com/dereck-jun/p2p-loan-assessment/pull/8) in [dereck-jun/p2p-loan-assessment](https://github.com/dereck-jun/p2p-loan-assessment)
   <!--END_SECTION:activity-->
 </details>
 
